@@ -1,0 +1,44 @@
+#bg{
+	background:url('../img/background-3009949_1920.jpg') no-repeat;
+	background-size: auto;
+	width:100%;
+	height: 100%;
+	top=0;
+	position: fixed;
+	left=0;
+}
+#form1{
+	padding:60px 40px;
+	margin-top:80px;
+	-webkit-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+	-moz-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+	box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+}
+h1{
+	color:white;
+	text-align: center;
+	margin-top: -10px;
+}
+label{
+	font-size:15px;
+	color:white;
+}
+button{
+	border:none;
+	outline: none;
+	height:35px;
+	background:#1c8adb;
+	color:#fff;
+	font-size: 18px;
+	width: 100%;
+	border-radius: 72px 72px 72px 72px;
+	-moz-border-radius: 72px 72px 72px 72px;
+	-webkit-border-radius: 72px 72px 72px 72px;
+	border: 0px solid #000000;
+	-webkit-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+	-moz-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+	box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+}
+
+
+
